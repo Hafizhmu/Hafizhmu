@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hafizhmu
 - 👀 I’m interested in Android and Web Programming
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning about Back End Developer
 - 📫 How to reach me Instagram : @hafizhmusyaffa
 
 <!---
